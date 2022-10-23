@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="653px" height="479px" viewBox="0 0 653 479" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Shapes</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="73.5297582%" id="linearGradient-1">
+            <stop stop-color="#434C5B" offset="0%"></stop>
+            <stop stop-color="#212A39" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="87.781137%" y1="105.288456%" x2="25.9536053%" y2="-24.8309454%" id="linearGradient-2">
+            <stop stop-color="#931FFF" offset="0%"></stop>
+            <stop stop-color="#2D0DAE" offset="100%"></stop>
+        </linearGradient>
+        <path d="M17.6094227,61.9911272 L530.609423,0.230036235 C541.575928,-1.09024317 551.536335,6.72956803 552.856615,17.6960734 C552.952119,18.489353 553,19.2876429 553,20.0866507 L553,363.830757 C553,374.876452 544.045695,383.830757 533,383.830757 C531.496834,383.830757 529.998459,383.661295 528.533261,383.325583 L15.533261,265.784799 C6.44398659,263.702225 -5.21487457e-14,255.61478 -5.32907052e-14,246.289973 L4.26325641e-14,81.8477417 C5.038241e-14,71.7266672 7.56090891,63.2008878 17.6094227,61.9911272 Z" id="path-3"></path>
+        <filter x="-14.5%" y="-18.2%" width="128.9%" height="141.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.295148324 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CTA-/-Primary" transform="translate(50.000000, 38.000000)">
+            <g id="CTA">
+                <g id="Shapes">
+                    <path d="M36.6094227,91.0757115 L549.609423,29.3146206 C560.575928,27.9943412 570.536335,35.8141524 571.856615,46.7806577 C571.952119,47.5739373 572,48.3722272 572,49.1712351 L572,392.915341 C572,403.961036 563.045695,412.915341 552,412.915341 C550.496834,412.915341 548.998459,412.74588 547.533261,412.410167 L34.533261,294.869384 C25.4439866,292.78681 19,284.699364 19,275.374558 L19,110.932326 C19,100.811252 26.5609089,92.2854721 36.6094227,91.0757115 Z" id="Bottom" fill="url(#linearGradient-1)" transform="translate(295.500000, 221.042292) scale(-1, -1) translate(-295.500000, -221.042292) "></path>
+                    <g id="Top">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
